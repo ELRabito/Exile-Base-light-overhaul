@@ -19,4 +19,4 @@
 	ExileClient_object_portableGenerator_switchOff = "custom\Lights\ExileClient_object_portableGenerator_switchOff.sqf";
 	
 	};
-		
+	
