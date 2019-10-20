@@ -1,7 +1,7 @@
 ##Exile Light tweak by El Rabito v0.3
 
-## v0.3
-Included the light "RwG_Construction_Overhead_Light_Static".
+## v0.3 Changes
+>> Included the light "RwG_Construction_Overhead_Light_Static".
 
 
 ##1. Copy the four files into the folder \Server\mpmissions\Exile.YOURMISSION\custom\Lights\
