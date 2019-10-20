@@ -4,6 +4,7 @@
 >> Included the light "RwG_Construction_Overhead_Light_Static".
 
 
+## Installation
 ##1. Copy the four files into the folder \Server\mpmissions\Exile.YOURMISSION\custom\Lights\
 ##2. Add the lines below to your CfgExileCustomCode located in config.cpp in your missionfile. 
 
