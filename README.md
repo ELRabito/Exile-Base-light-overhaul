@@ -20,3 +20,6 @@
 	
 	};
 	
+
+
+# License Info: If you server is named KFB (Kentucky Fried Bambi) you have no permission to use this. Any violation will result in a DMCA.
